@@ -1,7 +1,6 @@
 💻✨ Hi there! I'm JuniorSS!
 
-💻 Software Engineer | 📚 Student | ✨ White Hat & Cybersecurity Analyst | 🎓 M.Sc. in Computer Science
-
+💻 Software Engineer | 📚 Student | ✨ White Hat & Cybersecurity Analyst 
 Since 2016, I’ve been studying computing and systems development, working as a developer, project manager, and UX designer.
 As a student of web and mobile development, I also hold a few post-graduate certificates in related fields.
 
