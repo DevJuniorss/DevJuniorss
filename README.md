@@ -1,6 +1,9 @@
 💻✨ Hi there! I'm JuniorSS!
 
 
+<!-- 
+alterar para os meus reps
+
 <div align="center">
   <a href="https://github.com/DevJuniorss">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=torreslucs23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +27,7 @@
   
   ##
  
-<div> 
+<div>  -->
 
  
 
